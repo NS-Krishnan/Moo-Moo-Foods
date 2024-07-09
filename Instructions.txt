@@ -1,0 +1,20 @@
+Frontend for UI react part 
+to Run: npm start
+
+Backend for Node server part
+to Run: node server.js
+
+
+In UI page, You will be asked to login/signup, Once it is successful, you will be redirected to homepage, You have two sections menu and instamart,
+
+After adding items to cart, You can increment and decrement in cart as well as clear all the items,
+
+once the items are fixed, you can click on checkout which will save the order in the db.
+
+
+DB:
+Saved the collections as JSON file
+
+Create db krishnandatabase and create 5 collections Users,items,carts,orders,orderDetails.
+
+import the JSOn file into appropriate collections

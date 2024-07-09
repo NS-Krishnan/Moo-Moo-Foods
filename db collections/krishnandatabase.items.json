@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707e0"
+  },
+  "name": "Chicken Biriyani",
+  "price": 7.5,
+  "category": "Food",
+  "photo": "/img/img1.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707e1"
+  },
+  "name": "Chicken Fried Rice",
+  "price": 6.5,
+  "category": "Food",
+  "photo": "/img/img2.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707e2"
+  },
+  "name": "Grilled Chicken",
+  "price": 12,
+  "category": "Food",
+  "photo": "/img/img3.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707e3"
+  },
+  "name": "Pepper Chicken",
+  "price": 6,
+  "category": "Food",
+  "photo": "/img/img4.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707e4"
+  },
+  "name": "Chilli Fish",
+  "price": 8,
+  "category": "Food",
+  "photo": "/img/img5.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707e5"
+  },
+  "name": "Mutton Sukka",
+  "price": 9,
+  "category": "Food",
+  "photo": "/img/img6.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707e6"
+  },
+  "name": "Butter Garlic Prawns",
+  "price": 13,
+  "category": "Food",
+  "photo": "/img/img7.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707e7"
+  },
+  "name": "Seafood Noodles",
+  "price": 7.5,
+  "category": "Food",
+  "photo": "/img/img8.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707e8"
+  },
+  "name": "Kashmiri Chilli Powder",
+  "price": 2.5,
+  "category": "Instamart",
+  "photo": "/img/img9.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707e9"
+  },
+  "name": "Garam masala",
+  "price": 2.5,
+  "category": "Instamart",
+  "photo": "/img/img10.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707ea"
+  },
+  "name": "Pepper Powder",
+  "price": 3,
+  "category": "Instamart",
+  "photo": "/img/img11.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707eb"
+  },
+  "name": "Chicken Masala",
+  "price": 2,
+  "category": "Instamart",
+  "photo": "/img/img12.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707ec"
+  },
+  "name": "Coriander Powder",
+  "price": 2,
+  "category": "Instamart",
+  "photo": "/img/img13.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707ed"
+  },
+  "name": "Ginger Garlic Paste",
+  "price": 1.5,
+  "category": "Instamart",
+  "photo": "/img/img14.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707ee"
+  },
+  "name": "Turmeric Powder",
+  "price": 2,
+  "category": "Instamart",
+  "photo": "/img/img15.jpg"
+},
+{
+  "_id": {
+    "$oid": "6638a899bd4bb875754707ef"
+  },
+  "name": "Biryani Masala",
+  "price": 2.5,
+  "category": "Instamart",
+  "photo": "/img/img16.jpg"
+}]
